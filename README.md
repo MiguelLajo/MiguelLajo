@@ -37,7 +37,7 @@ Soy un apasionado de la Ciencia de datos y cuento con experiencia en el analisis
 * 🎸 Musico
 * 📚 Lectura
 * 🏃‍♂️ Cardio
-* 👨‍🍳 Cocinar
+* 👨‍🍳 Cocina
 
 # Contacto
 ¡No dudes en ponerse en contacto conmigo! Puedes encontrarme en las siguientes redes sociales:
